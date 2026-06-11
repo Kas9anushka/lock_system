@@ -35,12 +35,7 @@ validate the entered password.
 
 Function LED[5:0]
 
-1st digit entered 000001
-2nd digit entered 000011
-3rd digit entered 000111
-4th digit entered 001111
-UNLOCKED indicator 010000
-Wrong password indicator 100000
+<img width="694" height="404" alt="image" src="https://github.com/user-attachments/assets/50ff3082-82c1-44b8-bb91-425d2b3193f4" />
 
 
 **2.4 Lever Operation (Validation Trigger)**
